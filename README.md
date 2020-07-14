@@ -28,3 +28,16 @@ gem 'faraday'
 $ bundle
 ```
 
+## サンプルプログラム faraday-sample.rb 
+
+フォークまたはクローンして、
+
+```
+$ bundle
+```
+を実行してください。
+
+```
+$ ruby faraday-sample.rb
+```
+で実行できます。
